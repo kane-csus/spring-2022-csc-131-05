@@ -1,0 +1,4 @@
+Name:		Ian Schultz
+Email:		irschultz@csus.edu
+Github:		Ian-Sanity
+Favorite Snack:	Carrots

@@ -39,7 +39,7 @@ class Person:
 
     # Special Python method used to represent a class's objects as a string
     def __repr__(self):
-        return self.name + ','
+        return self.name
 
 
 def main():
@@ -56,20 +56,8 @@ def main():
     print("Peers: %s" % peers)
 
     # Logic to see who likes pineapple pizza (alphabetical order by first name)
-    if emrys_poggemann.likes_pineapple_pizza:
-        print("%s likes pineapple pizza" % emrys_poggemann.name)
-    else:
-        print("%s DOES NOT like pineapple pizza" % emrys_poggemann.name)
-
-    if gary_kane.likes_pineapple_pizza:
-        print("%s likes pineapple pizza" % gary_kane.name)
-    else:
-        print("%s DOES NOT like pineapple pizza" % gary_kane.name)
-
-    if ian_schultz.likes_pineapple_pizza:
-        print("%s likes pineapple pizza" % ian_schultz.name)
-    else:
-        print("%s DOES NOT like pineapple pizza" % ian_schultz.name)
+    for peer in peers:
+        print(f"{peer.name} {'likes' if peer.likes_pineapple_pizza else 'DOES NOT like'} pineapple pizza")
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,4 @@
+name: Emrys Poggemann
+email: mpoggemann96@gmail.com
+Github: turtle11235
+favorite color: red

@@ -45,6 +45,7 @@ class Person:
 def main():
     # Person objects (alphabetical order by first name)
     ashley_palencia_wisniewski = Person('Ashley Palencia - Wisniewski', False)
+    brandon_symansiv = Person('Brandon Symansiv', True) 
     darryl_nguyen = Person('Darryl Nguyen', False)
     emrys_poggemann = Person('Emrys Poggemann', True)
     gary_kane = Person('Gary Kane', False)
@@ -54,7 +55,7 @@ def main():
     vaibhav_jain = Person('Vaibhav Jain', False)
 
     # List of people in our class (alphabetical order by first name)
-    peers = [ashley_palencia_wisniewski, darryl_nguyen, emrys_poggemann, gary_kane, ian_schultz, joseph_doan, nikita_cherepanov, vaibhav_jain]
+    peers = [ashley_palencia_wisniewski, brandon_symansiv, darryl_nguyen, emrys_poggemann, gary_kane, ian_schultz, joseph_doan, nikita_cherepanov, vaibhav_jain]
 
     # Print out people in our class
     print("Welcome to learning Git in %s %s!" % (COURSE[0], SEMESTER[0]))

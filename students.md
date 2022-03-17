@@ -6,4 +6,5 @@ A list of peers in CSC 131-05 Spring 2022
 * Darryl Nguyen
 * Emrys Poggemann
 * Gary Kane
+* Nikita Cherepanov
 * Vaibhav Jain

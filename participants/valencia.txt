@@ -1,0 +1,4 @@
+name:       Maria Valencia
+email:      mariavalencia@csus.edu
+github:     mvalenciaaa14
+fun fact:   i am an eyelash artist

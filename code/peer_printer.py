@@ -47,9 +47,10 @@ def main():
     emrys_poggemann = Person('Emrys Poggemann', True)
     gary_kane = Person('Gary Kane', False)
     ian_schultz = Person('Ian Schultz', False)
+    vaibhav_jain = Person('Vaibhav Jain', False)
 
     # List of people in our class (alphabetical order by first name)
-    peers = [emrys_poggemann, gary_kane, ian_schultz]
+    peers = [emrys_poggemann, gary_kane, ian_schultz, vaibhav_jain]
 
     # Print out people in our class
     print("Welcome to learning Git in %s %s!" % (COURSE[0], SEMESTER[0]))

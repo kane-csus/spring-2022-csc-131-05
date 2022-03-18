@@ -71,6 +71,10 @@ def main():
     print("Peers: %s" % peers)
 
     # Logic to see who likes pineapple pizza (alphabetical order by first name)
+    if ashley_palencia_wisniewski.likes_pineapple_pizza:
+	print("%s likes pineapple pizza" % ashley_palencia_wisniewski.name)
+    else:
+	print("%s DOES NOT like pineapple pizza" % ashley_palencia_wisniewski.name)
     if brandon_symansiv.likes_pineapple_pizza:
         print("%s likes pineapple pizza" % brandon_symansiv.name)
     else:

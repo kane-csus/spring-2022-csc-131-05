@@ -1,4 +1,4 @@
-Name:					Riley Johnson
-Email:					rtjohnson@csus.edu
-GitHub: 				TopCrunch
+Name:			Riley Johnson
+Email:			rtjohnson@csus.edu
+GitHub: 		TopCrunch
 Favorite Yoyo Trick:	Cincinnati Slammer

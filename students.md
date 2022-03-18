@@ -19,3 +19,4 @@ _Please keep this list in alphabetical order by first name._
 - Nikita Cherepanov
 - Riley Johnson
 - Vaibhav Jain
+- Von Mueller

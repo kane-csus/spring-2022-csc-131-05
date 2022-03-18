@@ -50,7 +50,7 @@ def main():
     emrys_poggemann = Person('Emrys Poggemann', True)
     gary_kane = Person('Gary Kane', False)
     ian_schultz = Person('Ian Schultz', False)
-    jasmine randhawa = Person('Jasmine Randhawa', False)
+    jasmine_randhawa = Person('Jasmine Randhawa', False)
     jesus_cervantes = Person('Jesus Cervantes', True)
     joseph_doan = Person('Joseph Doan', True)
     nikita_cherepanov = Person('Nikita Cherepanov', True)
@@ -82,6 +82,10 @@ def main():
             print("%s lieks pineapple pizza" % jasmine_randhawa.name)
     else: 
         print("%s DOES NOT like pineapple pizza" % jasmine_randhawa.name)
+    if vaibhav_jain.likes_pineapple_pizza:
+        print("%s likes pineapple pizza" % vaibhav_jain.name)
+    else:
+        print("%s DOES NOT like pineapple pizza" % vaibhav_jain.name)
 
 if __name__ == "__main__":
     main()

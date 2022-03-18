@@ -53,10 +53,11 @@ def main():
     jesus_cervantes = Person('Jesus Cervantes', True)
     joseph_doan = Person('Joseph Doan', True)
     nikita_cherepanov = Person('Nikita Cherepanov', True)
+    riley_johnson = Person('Riley Johnson', True)
     vaibhav_jain = Person('Vaibhav Jain', False)
 
     # List of people in our class (alphabetical order by first name)
-    peers = [ashley_palencia_wisniewski, brandon_symansiv, darryl_nguyen, emrys_poggemann, gary_kane, ian_schultz,jesus_cervantes, joseph_doan, nikita_cherepanov, vaibhav_jain]
+    peers = [ashley_palencia_wisniewski, brandon_symansiv, darryl_nguyen, emrys_poggemann, gary_kane, ian_schultz,jesus_cervantes, joseph_doan, nikita_cherepanov, riley_johnson, vaibhav_jain]
 
     # Print out people in our class
     print("Welcome to learning Git in %s %s!" % (COURSE[0], SEMESTER[0]))

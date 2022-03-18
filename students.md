@@ -13,6 +13,7 @@ _Please keep this list in alphabetical order by first name._
 - Jason Yu
 - Jesus Cervantes
 - Joseph Doan
+- Juan Mendez
 - Maria Valencia
 - Nikita Cherepanov
 - Riley Johnson

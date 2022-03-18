@@ -11,4 +11,5 @@ A list of peers in CSC 131-05 Spring 2022
 * Jesus Cervantes 
 * Joseph Doan
 * Nikita Cherepanov
+* Riley Johnson
 * Vaibhav Jain 

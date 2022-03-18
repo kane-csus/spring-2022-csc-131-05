@@ -10,6 +10,7 @@ _Please keep this list in alphabetical order by first name._
 - Gary Kane
 - Ian Schultz
 - Jasmine Randhawa
+- Jason Yu
 - Jesus Cervantes
 - Joseph Doan
 - Nikita Cherepanov

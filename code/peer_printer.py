@@ -82,7 +82,7 @@ def main():
     if darryl_nguyen.likes_pineapple_pizza:
         print("%s likes pineapple pizza" % darryl_nguyen.name)
     else:
-        print("%s DOES NOT like pineapple pizza" % emrys_poggemann.name)
+        print("%s DOES NOT like pineapple pizza" % darryl_nguyen.name)
     if emrys_poggemann.likes_pineapple_pizza:
         print("%s likes pineapple pizza" % emrys_poggemann.name)
     else:

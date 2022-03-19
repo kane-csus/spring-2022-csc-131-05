@@ -51,6 +51,7 @@ def main():
     enrique_alcacer = Person('Enrique Alcacer', False)
     gary_kane = Person('Gary Kane', False)
     ian_schultz = Person('Ian Schultz', False)
+    jackson_martin = Person('Jackson Martin', True); 
     jasmine_randhawa = Person('Jasmine Randhawa', False)
     james_mcdole = Person('James McDole', True)
     jason_yu = Person('Jason Yu', True)
@@ -65,7 +66,7 @@ def main():
     von_mueller = Person('Von Mueller', False)
 
     # List of people in our class (alphabetical order by first name)
-    peers = [ashley_palencia_wisniewski, brandon_symansiv, darryl_nguyen, emrys_poggemann, enrique_alcacer, gary_kane, ian_schultz,jasmine_randhawa, james_mcdole, jason_yu,jesus_cervantes, joseph_doan, juan_mendez, maria_valencia, niketa_kosyuk, nikita_cherepanov, riley_johnson, vaibhav_jain, von_mueller]
+    peers = [ashley_palencia_wisniewski, brandon_symansiv, darryl_nguyen, emrys_poggemann, enrique_alcacer, gary_kane, ian_schultz, jackson_martin,jasmine_randhawa, james_mcdole, jason_yu,jesus_cervantes, joseph_doan, juan_mendez, maria_valencia, niketa_kosyuk, nikita_cherepanov, riley_johnson, vaibhav_jain, von_mueller]
 
     # Print out people in our class
     print("Welcome to learning Git in %s %s!" % (COURSE[0], SEMESTER[0]))
@@ -100,6 +101,10 @@ def main():
         print("%s likes pineapple pizza" % ian_schultz.name)
     else:
         print("%s DOES NOT like pineapple pizza" % ian_schultz.name)
+    if jackson_martin.likes_pineapple_pizza:
+            print("%s likes pineapple pizza" % jackson_martin.name)
+    else:
+        print("%s DOES NOT like pineapple pizza" % jackson_martin.name)
     if jasmine_randhawa.likes_pineapple_pizza:
             print("%s lieks pineapple pizza" % jasmine_randhawa.name)
     else:

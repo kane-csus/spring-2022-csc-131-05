@@ -1,0 +1,4 @@
+Name:           James McDole
+Email:          jmcdole@csus.edu
+GitHub:         ZOrangeBandit
+Favorite Drink: coffee

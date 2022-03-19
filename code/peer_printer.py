@@ -48,6 +48,7 @@ def main():
     brandon_symansiv = Person('Brandon Symansiv', True)
     darryl_nguyen = Person('Darryl Nguyen', False)
     dat_mai = Person('Dat Mai', False)
+    emad_sabir = Person('Emad Sabir', False)
     emrys_poggemann = Person('Emrys Poggemann', True)
     enrique_alcacer = Person('Enrique Alcacer', False)
     gary_kane = Person('Gary Kane', False)
@@ -92,6 +93,10 @@ def main():
         print("%s likes pineapple pizza" % dat_mai.name)
     else:
         print("%s DOES NOT like pineapple pizza" % dat_mai.name)
+    if emad_sabir.likes_pineapple_pizza:
+        print("%s likes pineapple pizza" % emad_sabir.name)
+    else:
+        print("%s DOES NOT like pineapple pizza" % emad_sabir.name)
     if emrys_poggemann.likes_pineapple_pizza:
         print("%s likes pineapple pizza" % emrys_poggemann.name)
     else:

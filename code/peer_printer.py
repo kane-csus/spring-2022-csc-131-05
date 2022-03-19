@@ -46,6 +46,7 @@ def main():
     # Person objects (alphabetical order by first name)
     ashley_palencia_wisniewski = Person('Ashley Palencia - Wisniewski', False)
     brandon_symansiv = Person('Brandon Symansiv', True)
+    connor_mckibben = Person('Connor McKibben', True)
     darryl_nguyen = Person('Darryl Nguyen', False)
     dat_mai = Person('Dat Mai', False)
     emad_sabir = Person('Emad Sabir', False)

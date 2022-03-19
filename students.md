@@ -16,6 +16,7 @@ _Please keep this list in alphabetical order by first name._
 - Joseph Doan
 - Juan Mendez
 - Maria Valencia
+- Niketa Kosyuk
 - Nikita Cherepanov
 - Riley Johnson
 - Vaibhav Jain

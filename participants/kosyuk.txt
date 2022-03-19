@@ -1,0 +1,4 @@
+Name:           Niketa Kosyuk
+Email:          nkosyuk@csus.edu
+GitHub:         Nikikosa
+Fun fact:       I like to build computers.

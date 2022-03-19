@@ -9,12 +9,13 @@ _Please keep this list in alphabetical order by first name._
 - Enrique Alcacer
 - Gary Kane
 - Ian Schultz
-- Jasmine Randhawa
 - James McDole
+- Jasmine Randhawa
 - Jason Yu
 - Jesus Cervantes
 - Joseph Doan
 - Juan Mendez
+- Marco Galindo
 - Maria Valencia
 - Niketa Kosyuk
 - Nikita Cherepanov

@@ -4,6 +4,7 @@ _Please keep this list in alphabetical order by first name._
 
 - Ashley Palencia - Wisniewski
 - Brandon Symansiv
+- Connor McKibben
 - Darryl Nguyen
 - Dat Mai
 - Emrys Poggemann

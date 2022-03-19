@@ -67,6 +67,7 @@ def main():
     niketa_kosyuk = Person('Niketa Kosyuk', True)
     nikita_cherepanov = Person('Nikita Cherepanov', True)
     riley_johnson = Person('Riley Johnson', True)
+    rohit_agrawal = Person('Rohit Agrawal', False)
     vaibhav_jain = Person('Vaibhav Jain', False)
     von_mueller = Person('Von Mueller', False)
 
@@ -171,6 +172,10 @@ def main():
         print("%s likes pineapple pizza" % riley_johnson.name)
     else:
         print("%s DOES NOT like pineapple pizza" % riley_johnson.name)
+    if rohit_agrawal.likes_pineapple_pizza:
+        print("%s likes pineapple pizza" % rohit_agrawal.name)
+    else:
+        print("%s DOES NOT like pineapple pizza" % rohit_agrawal.name)
     if vaibhav_jain.likes_pineapple_pizza:
         print("%s likes pineapple pizza" % vaibhav_jain.name)
     else:

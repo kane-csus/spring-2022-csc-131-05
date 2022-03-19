@@ -23,5 +23,6 @@ _Please keep this list in alphabetical order by first name._
 - Niketa Kosyuk
 - Nikita Cherepanov
 - Riley Johnson
+- Rohit Agrawal
 - Vaibhav Jain
 - Von Mueller

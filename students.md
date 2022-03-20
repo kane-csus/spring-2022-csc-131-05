@@ -7,6 +7,7 @@ _Please keep this list in alphabetical order by first name._
 - Connor McKibben
 - Darryl Nguyen
 - Dat Mai
+- Derek Dilger
 - Emad Sabir
 - Emrys Poggemann
 - Enrique Alcacer

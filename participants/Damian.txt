@@ -1,4 +1,0 @@
-Name: Francisco Damian
-email: fjdamian@csus.edu
-github account: fjdamian
-One fun fact: I may be the only cpe student here

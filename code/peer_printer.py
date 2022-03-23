@@ -53,6 +53,7 @@ def main():
     emrys_poggemann = Person('Emrys Poggemann', True)
     enrique_alcacer = Person('Enrique Alcacer', False)
     gary_kane = Person('Gary Kane', False)
+    francisco_damian = Person("Francisco Damian", True)
     ian_schultz = Person('Ian Schultz', False)
     jackson_martin = Person('Jackson Martin', True); 
     jasmine_randhawa = Person('Jasmine Randhawa', False)

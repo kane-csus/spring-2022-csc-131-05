@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fae4829f-b953-43c9-b32d-efdb50e5fd80" name="Changes" comment="">
-      <changelist_data name="pwntatochip" email="derekdilger@gmail.com" />
-    </list>
+    <list default="true" id="fae4829f-b953-43c9-b32d-efdb50e5fd80" name="Changes" comment="Merge remote-tracking branch 'origin/master'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +34,21 @@
       <option name="presentableId" value="Default" />
       <updated>1648016333169</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added information about Francisco Damian">
+      <created>1648018367793</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648018367793</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1648018391447</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648018391447</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -43,7 +56,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -51,6 +76,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added information about Francisco Damian" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added information about Francisco Damian" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
 </project>
